@@ -663,6 +663,11 @@ section { padding: 120px 0; position: relative; }
 .g-3 { grid-column: span 3; grid-row: span 3; }
 .g-4 { grid-column: span 4; grid-row: span 3; background: var(--sky-soft); display: flex; align-items: center; justify-content: center; padding: 32px; text-align: center; }
 .g-5 { grid-column: span 3; grid-row: span 3; }
+.g-6 { grid-column: span 4; grid-row: span 3; }
+.g-7 { grid-column: span 4; grid-row: span 3; }
+.g-8 { grid-column: span 4; grid-row: span 3; }
+.g-9 { grid-column: span 6; grid-row: span 3; }
+.g-10 { grid-column: span 6; grid-row: span 3; }
 .g-quote {
   font-family: var(--serif);
   font-size: 22px;
@@ -1054,7 +1059,7 @@ section { padding: 120px 0; position: relative; }
   .p-step:nth-child(2) { border-right: none; }
   .gallery-grid { grid-template-columns: repeat(6, 1fr); grid-auto-rows: 100px; }
   .g-1 { grid-column: span 6; grid-row: span 4; }
-  .g-2, .g-3, .g-4, .g-5 { grid-column: span 3; grid-row: span 3; }
+  .g-2, .g-3, .g-4, .g-5, .g-6, .g-7, .g-8, .g-9, .g-10 { grid-column: span 3; grid-row: span 3; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
   /* Nav: hide desktop links, show hamburger */
   .nav-links { display: none; }
@@ -1093,7 +1098,7 @@ section { padding: 120px 0; position: relative; }
     gap: 10px;
   }
   .g-1 { grid-column: span 2; grid-row: span 2; }
-  .g-2, .g-3, .g-5 { grid-column: span 1; grid-row: span 1; }
+  .g-2, .g-3, .g-5, .g-6, .g-7, .g-8, .g-9, .g-10 { grid-column: span 1; grid-row: span 1; }
   /* Hide the quote tile on small phones — not enough room */
   .g-4 { display: none; }
 

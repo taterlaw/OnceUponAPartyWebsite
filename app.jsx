@@ -203,16 +203,16 @@ function App() {
 
           <div className="gallery-grid">
             <div className="g-item g-1">
-              <img src="assets/balloons-arch-hero.jpg" alt="Tall sky and peach garland install" />
-              <span className="label">Backyard birthday · Edmond</span>
+              <img src="assets/IMG_0876.jpg" alt="Royal blue, white, and silver balloon arch" />
+              <span className="label">Corporate arch · OKC</span>
             </div>
             <div className="g-item g-2">
-              <img src="assets/chelsea-balloons.jpg" alt="Peach and cream balloon arch" />
-              <span className="label">Studio shoot · OKC</span>
+              <img src="assets/IMG_0878.jpg" alt="Winnie the Pooh first birthday balloon arch with yellow and dusty blue garland" />
+              <span className="label">First Beeday · OKC</span>
             </div>
             <div className="g-item g-3">
-              <img src="assets/chelsea-outdoor.jpg" alt="Outdoor balloon bouquet" />
-              <span className="label">Welcome home · Nichols Hills</span>
+              <img src="assets/IMG_0881.jpg" alt="Burgundy and chrome balloon columns with Happy Birthday neon sign" />
+              <span className="label">Birthday backdrop · OKC</span>
             </div>
             <div className="g-item g-4">
               <blockquote className="g-quote">
@@ -221,8 +221,28 @@ function App() {
               </blockquote>
             </div>
             <div className="g-item g-5">
-              <img src="assets/chelsea-portrait.jpg" alt="Coral and cream arch with signage" />
-              <span className="label">Brand launch · Bricktown</span>
+              <img src="assets/IMG_0884.jpg" alt="Pink, teal, and burgundy balloon column with gold gift bow accents" />
+              <span className="label">Holiday column · OKC</span>
+            </div>
+            <div className="g-item g-6">
+              <img src="assets/IMG_0877.jpg" alt="Royal blue and silver balloon columns flanking a blue drape backdrop" />
+              <span className="label">Event columns · OKC</span>
+            </div>
+            <div className="g-item g-7">
+              <img src="assets/IMG_0879.jpg" alt="Pink and yellow balloon columns with star foil accents" />
+              <span className="label">Star columns · OKC</span>
+            </div>
+            <div className="g-item g-8">
+              <img src="assets/IMG_0880.jpg" alt="Hot Wheels themed number 3 balloon sculpture in blue and orange" />
+              <span className="label">Hot Wheels 3rd birthday · OKC</span>
+            </div>
+            <div className="g-item g-9">
+              <img src="assets/IMG_0882.jpg" alt="Superman themed number 4 balloon sculpture in red, white, and blue" />
+              <span className="label">Superman 4th birthday · OKC</span>
+            </div>
+            <div className="g-item g-10">
+              <img src="assets/IMG_0883.jpg" alt="Twin 1 and Twin 2 chrome gender reveal balloons with pink and blue ribbons" />
+              <span className="label">Twins gender reveal · OKC</span>
             </div>
           </div>
         </div>
