@@ -347,7 +347,7 @@ function App() {
               <h4>Follow</h4>
               <ul>
                 <li><a href="https://www.instagram.com/once_upon_a_party_okc?igsh=MXhiczg2NXc1ZXg2aw==" target="_blank" rel="noopener noreferrer">Instagram</a></li>
-                <li>TikTok</li>
+                <li><a href="https://www.tiktok.com/@once.upon.a.party.okc?_r=1&_t=ZT-965uMeNpXwb" target="_blank" rel="noopener noreferrer">TikTok</a></li>
                 <li>Pinterest</li>
                 <li>Facebook</li>
               </ul>
