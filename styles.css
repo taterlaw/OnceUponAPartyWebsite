@@ -289,6 +289,7 @@ section { padding: 120px 0; position: relative; }
   padding: 60px 0 100px;
   position: relative;
   overflow: hidden;
+  background: url('background/clouds.JPG') center/cover no-repeat;
 }
 .hero-grid {
   display: grid;
@@ -404,7 +405,7 @@ section { padding: 120px 0; position: relative; }
 .balloon.float { animation: floaty 6s ease-in-out infinite; }
 .balloon.float-slow { animation: floaty 9s ease-in-out infinite; }
 
-.b-1 { width: 70px; height: 90px; top: -10px; right: 30px; animation-delay: 0s; }
+.b-1 { width: 70px; height: 90px; top: -10px; right: 30px; animation-delay: 0s; background: radial-gradient(circle at 30% 25%, rgba(255,255,255,0.45) 0%, rgba(255,255,255,0) 40%), url('background/clouds.JPG') center/cover; color: #89c4e1; }
 .b-2 { width: 50px; height: 65px; bottom: 80px; left: -20px; animation-delay: 1s; }
 .b-3 { width: 90px; height: 110px; bottom: -20px; right: 60px; animation-delay: 2s; }
 
