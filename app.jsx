@@ -93,7 +93,7 @@ function App() {
               </div>
             </div>
             <div className="hero-photo-wrap">
-              <img src="assets/balloons-arch-hero.jpg" alt="Chelsea building a peach, sky blue, and cream balloon installation" />
+              <img src="chelsea-photos/chelsea2.JPG" alt="Chelsea building a tall teal, orange, and cream balloon column" />
               <span className="balloon sky float b-1"></span>
               <span className="balloon peach float-slow b-2"></span>
             </div>
@@ -157,7 +157,7 @@ function App() {
           <div className="about-grid">
             <div style={{position: 'relative'}}>
               <div className="about-photo">
-                <img src="assets/chelsea-portrait.jpg" alt="Chelsea McKee, founder of Once Upon a Party" />
+                <img src="chelsea-photos/chelsea1.JPG" alt="Chelsea McKee, founder of Once Upon a Party, smiling next to a colorful balloon garland" />
               </div>
               <div className="about-badge">
                 <div className="inner">made with<br/>love<br/>in OKC</div>
@@ -203,16 +203,16 @@ function App() {
 
           <div className="gallery-grid">
             <div className="g-item g-1">
-              <img src="assets/IMG_0876.jpg" alt="Royal blue, white, and silver balloon arch" />
-              <span className="label">Corporate arch · OKC</span>
+              <img src="gallery-showcase/IMG_3862.jpg" alt="Mermaid themed 5th birthday balloon arch in purple, pink, sage, and blue" />
+              <span className="label">Mermaid 5th birthday · OKC</span>
             </div>
             <div className="g-item g-2">
-              <img src="assets/IMG_0878.jpg" alt="Winnie the Pooh first birthday balloon arch with yellow and dusty blue garland" />
-              <span className="label">First Beeday · OKC</span>
+              <img src="gallery-showcase/1ED36BDC-57E2-47C1-BDF8-8A5E77E955BF.JPG" alt="Blue Jean Baby shower arch in navy, dusty blue, and cream" />
+              <span className="label">Baby boy shower · OKC</span>
             </div>
             <div className="g-item g-3">
-              <img src="assets/IMG_0881.jpg" alt="Burgundy and chrome balloon columns with Happy Birthday neon sign" />
-              <span className="label">Birthday backdrop · OKC</span>
+              <img src="gallery-showcase/65AB418C-D8DF-4D1B-8FB1-D7D9A7F4245E.JPG" alt="Construction birthday garland in yellow, sky blue, and orange over a Carson is 2 banner" />
+              <span className="label">Construction 2nd birthday · OKC</span>
             </div>
             <div className="g-item g-4">
               <blockquote className="g-quote">
@@ -221,28 +221,44 @@ function App() {
               </blockquote>
             </div>
             <div className="g-item g-5">
-              <img src="assets/IMG_0884.jpg" alt="Pink, teal, and burgundy balloon column with gold gift bow accents" />
-              <span className="label">Holiday column · OKC</span>
+              <img src="gallery-showcase/IMG_7183_Afterlight.JPG" alt="Daisy themed pink number 2 balloon sculpture with personalized bubble balloon for Millie and Edie" />
+              <span className="label">Daisy 2nd birthday · OKC</span>
             </div>
             <div className="g-item g-6">
-              <img src="assets/IMG_0877.jpg" alt="Royal blue and silver balloon columns flanking a blue drape backdrop" />
-              <span className="label">Event columns · OKC</span>
+              <img src="gallery-showcase/IMG_4649.jpg" alt="Double Shot of Love baby shower in tan, gold, and cream with arch backdrop" />
+              <span className="label">Twins baby shower · OKC</span>
             </div>
             <div className="g-item g-7">
-              <img src="assets/IMG_0879.jpg" alt="Pink and yellow balloon columns with star foil accents" />
-              <span className="label">Star columns · OKC</span>
+              <img src="gallery-showcase/IMG_7458.jpg" alt="Kava's First Beeday Winnie the Pooh garland in dusty blue and cream" />
+              <span className="label">Winnie the Pooh 1st birthday · OKC</span>
             </div>
             <div className="g-item g-8">
-              <img src="assets/IMG_0880.jpg" alt="Hot Wheels themed number 3 balloon sculpture in blue and orange" />
-              <span className="label">Hot Wheels 3rd birthday · OKC</span>
+              <img src="gallery-showcase/IMG_5959.jpg" alt="Basketball themed number 10 birthday balloon sculpture in blue and orange" />
+              <span className="label">Basketball birthday · OKC</span>
             </div>
             <div className="g-item g-9">
-              <img src="assets/IMG_0882.jpg" alt="Superman themed number 4 balloon sculpture in red, white, and blue" />
-              <span className="label">Superman 4th birthday · OKC</span>
+              <img src="gallery-showcase/IMG_8319.jpg" alt="Kinzley custom name balloon sculpture in pink and black" />
+              <span className="label">Custom name sculpture · OKC</span>
             </div>
             <div className="g-item g-10">
-              <img src="assets/IMG_0883.jpg" alt="Twin 1 and Twin 2 chrome gender reveal balloons with pink and blue ribbons" />
-              <span className="label">Twins gender reveal · OKC</span>
+              <img src="gallery-showcase/IMG_7046.jpg" alt="First Frat Party first birthday blue garland with red star accents" />
+              <span className="label">First Frat Party · OKC</span>
+            </div>
+            <div className="g-item g-11">
+              <img src="gallery-showcase/IMG_7353.jpg" alt="Burgundy and chrome balloon columns flanking a Happy Birthday neon sign on arch backdrop" />
+              <span className="label">Birthday backdrop · OKC</span>
+            </div>
+            <div className="g-item g-12">
+              <img src="gallery-showcase/IMG_7558.jpg" alt="Royal blue, white, and silver balloon arch" />
+              <span className="label">Corporate arch · OKC</span>
+            </div>
+            <div className="g-item g-13">
+              <img src="gallery-showcase/IMG_8357.jpg" alt="We can't wait to squeeze you lemon baby shower balloon arch in pink and yellow with greenery" />
+              <span className="label">Lemon baby shower · OKC</span>
+            </div>
+            <div className="g-item g-14">
+              <img src="gallery-showcase/IMG_8340.jpg" alt="Pink and yellow lemon baby shower garland over a squeeze you sign" />
+              <span className="label">Lemon shower garland · OKC</span>
             </div>
           </div>
         </div>
