@@ -62,14 +62,13 @@ function App() {
                 <span className="eyebrow">Oklahoma City · Est. 2025</span>
               </div>
               <h1>
-                Balloons that<br />
-                make people <span className="underline">stop</span><br />
-                and smile.
+                Every celebration<br />
+                starts with <span className="underline">magic.</span>
               </h1>
               <p className="hero-sub">
                 Custom balloon installations, garlands, and arches for birthdays,
-                gender reveals, weddings, and corporate events across OKC. Designed
-                + installed by Chelsea McKee.
+                baby showers, weddings, and corporate events across OKC — dreamed
+                up and installed by Chelsea McKee.
               </p>
               <div className="hero-cta">
                 <button className="btn btn-primary" onClick={openRequest}>
@@ -79,8 +78,8 @@ function App() {
               </div>
               <div className="hero-meta">
                 <div className="hero-meta-item">
-                  <span className="num">300+</span>
-                  <span className="lbl">Events styled</span>
+                  <span className="num">100%</span>
+                  <span className="lbl">Custom designs</span>
                 </div>
                 <div className="hero-meta-item">
                   <span className="num">4.9★</span>
@@ -106,20 +105,20 @@ function App() {
         <div className="strip-track">
           <span>
             Birthdays <span className="dot"></span>
-            Gender Reveals <span className="dot"></span>
+            Birthday Stacks <span className="dot"></span>
             Corporate Events <span className="dot"></span>
             Weddings <span className="dot"></span>
             Baby Showers <span className="dot"></span>
-            Grand Openings <span className="dot"></span>
+            Bridal Showers <span className="dot"></span>
             Holiday Installs <span className="dot"></span>
           </span>
           <span>
             Birthdays <span className="dot"></span>
-            Gender Reveals <span className="dot"></span>
+            Birthday Stacks <span className="dot"></span>
             Corporate Events <span className="dot"></span>
             Weddings <span className="dot"></span>
             Baby Showers <span className="dot"></span>
-            Grand Openings <span className="dot"></span>
+            Bridal Showers <span className="dot"></span>
             Holiday Installs <span className="dot"></span>
           </span>
         </div>
@@ -141,12 +140,11 @@ function App() {
           </div>
 
           <div className="services-grid">
-            <ServiceCard num="01" title="Garland Installs" body="Organic balloon garlands draped across walls, arches, mantels, or backdrops. The classic centerpiece." tag="Most popular" tagClass="" />
-            <ServiceCard num="02" title="Gender Reveals" body="Pop-and-confetti moments, color-coded archways, and the photo every parent wants to keep." tag="Sky / Peach" tagClass="sky" />
-            <ServiceCard num="03" title="Birthday Setups" body="Kids', milestone, sweet sixteen — themed arches and number balloons that make the cake table sing." tag="Themed" tagClass="" />
-            <ServiceCard num="04" title="Corporate Events" body="Brand-color installations for product launches, ribbon cuttings, conferences, and holiday parties." tag="On-brand" tagClass="cream" />
-            <ServiceCard num="05" title="Bridal & Baby Showers" body="Soft, photogenic palettes designed to make your shower feel like a magazine spread." tag="Editorial" tagClass="" />
-            <ServiceCard num="06" title="Grand Openings" body="Storefront ribbons, organic columns, and street-facing arches that pull people in off the sidewalk." tag="High-impact" tagClass="sky" />
+            <ServiceCard num="01" title="Garland Installs" body="Dreamy organic balloon garlands draped across walls, arches, mantels, and backdrops — the magical centerpiece that transforms any space into something unforgettable." tag="Most popular" tagClass="" />
+            <ServiceCard num="02" title="Birthday Stacks" body="Towering custom balloon sculptures built around your theme — number stacks, character towers, and statement pieces that make the birthday star feel like royalty." tag="Showstopper" tagClass="sky" />
+            <ServiceCard num="03" title="Birthday Setups" body="From sweet first birthdays to milestone moments — dreamy themed arches and balloon magic that make the whole room feel like a celebration curated just for them." tag="Themed" tagClass="" />
+            <ServiceCard num="04" title="Corporate Events" body="Brand-color installations for product launches, ribbon cuttings, and holiday parties — turning every event into a moment your guests won't stop talking about." tag="On-brand" tagClass="cream" />
+            <ServiceCard num="05" title="Bridal & Baby Showers" body="Soft, dreamy palettes designed to make your shower feel like it was pulled straight from a dream — effortless, beautiful, and completely you." tag="Editorial" tagClass="" />
           </div>
         </div>
       </section>
@@ -167,16 +165,16 @@ function App() {
               <span className="eyebrow">Meet Chelsea</span>
               <h2>Hi — I'm <em>Chelsea</em>, the one behind every install.</h2>
               <p>
-                I started Once Upon a Party because the best moments in life
-                deserve a setting worth remembering. Every garland, every
-                arch, every balloon column is hand-built by me, on-site, in
-                the colors and shapes that fit your story.
+                I started Once Upon a Party because every magical moment in life
+                deserves a setting just as enchanting. Every garland, every arch,
+                every balloon column is hand-crafted by me, on-site, in the colors
+                and textures that bring your party dreams to life.
               </p>
               <p>
-                I'm based in Oklahoma City and travel across the metro for
-                events of every size — from intimate backyards to ballroom
-                galas. No two setups have ever been the same, and I like it
-                that way.
+                I'm based in Oklahoma City and bring the magic across the metro
+                for celebrations of every size — from cozy backyard birthdays to
+                grand ballroom galas. Every setup is one-of-a-kind, just like the
+                people we're celebrating.
               </p>
               <div className="signature">
                 Chelsea
